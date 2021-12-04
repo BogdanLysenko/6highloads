@@ -1,0 +1,11 @@
+{"customers":[  
+    {"name":"Lol", "email":"Lol@gmail.com"},  
+    {"name":"Carl Grimes", "email":"carl_grimes@gmail.com"},  
+    {"name":"Bohdan", "email":"bohdanchik777@gmail.com"}  
+],
+"products": [
+    {"model": "IPhone", "color": "black"},
+    {"model": "Galaxy", "color": "gray"},
+    {"model": "Linux", "color": "red"}
+]
+}
