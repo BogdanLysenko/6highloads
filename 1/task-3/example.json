@@ -1,5 +1,21 @@
-{"customers":[  
-    {"name":"Lol", "email":"Lol@gmail.com"},  
-    {"name":"Carl Grimes", "email":"carl_grimes@gmail.com"},  
-    {"name":"Bohdan", "email":"bohdanchik777@gmail.com"}  
-]}
+{
+  "customers": [
+    {
+      "name": "Lol",
+      "email": "Lol@gmail.com"
+    },
+    {
+      "name": "Carl Grimes",
+      "email": "carl_grimes@gmail.com"
+    },
+    {
+      "name": "Bohdan",
+      "email": "bohdanchik777@gmail.com"
+    },
+    {
+      "id": 42,
+      "name": "123",
+      "email": "123"
+    }
+  ]
+}
